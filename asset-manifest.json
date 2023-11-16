@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snaraya4/TicTacToe-Game/static/css/main.5f58f904.css",
+    "main.js": "/snaraya4/TicTacToe-Game/static/js/main.e40c739f.js",
+    "index.html": "/snaraya4/TicTacToe-Game/index.html",
+    "main.5f58f904.css.map": "/snaraya4/TicTacToe-Game/static/css/main.5f58f904.css.map",
+    "main.e40c739f.js.map": "/snaraya4/TicTacToe-Game/static/js/main.e40c739f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f58f904.css",
+    "static/js/main.e40c739f.js"
+  ]
+}
